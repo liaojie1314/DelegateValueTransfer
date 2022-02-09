@@ -1,0 +1,11 @@
+E:\Visual Studio Community\C#\窗体传值\bin\Debug\窗体传值.exe.config
+E:\Visual Studio Community\C#\窗体传值\bin\Debug\窗体传值.exe
+E:\Visual Studio Community\C#\窗体传值\bin\Debug\窗体传值.pdb
+E:\Visual Studio Community\C#\窗体传值\obj\Debug\窗体传值.csprojAssemblyReference.cache
+E:\Visual Studio Community\C#\窗体传值\obj\Debug\窗体传值.Form1.resources
+E:\Visual Studio Community\C#\窗体传值\obj\Debug\窗体传值.Form2.resources
+E:\Visual Studio Community\C#\窗体传值\obj\Debug\窗体传值.Properties.Resources.resources
+E:\Visual Studio Community\C#\窗体传值\obj\Debug\窗体传值.csproj.GenerateResource.cache
+E:\Visual Studio Community\C#\窗体传值\obj\Debug\窗体传值.csproj.CoreCompileInputs.cache
+E:\Visual Studio Community\C#\窗体传值\obj\Debug\窗体传值.exe
+E:\Visual Studio Community\C#\窗体传值\obj\Debug\窗体传值.pdb
